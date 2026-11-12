@@ -1,0 +1,11 @@
+room_id,room_type,price_per_night,is_available
+1,Single,120,occupied
+2,Double,180,reserved
+3,Single,120,available
+4,Family,240,reserved
+5,Single,120,available
+6,Single,120,available
+7,Double,180,occupied
+8,Family,240,available
+9,Double,180,occupied
+10,Single,130,available

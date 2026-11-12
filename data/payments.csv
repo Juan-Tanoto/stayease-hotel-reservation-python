@@ -1,0 +1,7 @@
+payment_id,booking_id,amount,payment_date,method
+P000001,1,240.00,2026-01-11,card
+P000002,2,180.00,2026-01-12,e_wallet
+P000003,4,480.00,2026-01-13,cash
+P000004,5,1260.00,2026-01-01,bank_transfer
+P000005,6,360.00,2026-02-01,card
+P000006,7,1200.00,2026-02-01,bank_transfer
